@@ -1,4 +1,4 @@
-# 2023-2-AI
+# practice-1
 
 ## NVIDIA DEEP LEARNING INSTITUTE
 
