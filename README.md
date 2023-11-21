@@ -7,3 +7,10 @@
   - 92점 이상
 
 https://courses.nvidia.com/courses/course-v1:DLI+C-FX-01+V3/course/ 
+
+# week11
+
+## Implementation of Logistic Regression
+
+- class: Computational Mathematics (Department of Mathematics)
+- Don't use nn.Module
