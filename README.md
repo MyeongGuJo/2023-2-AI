@@ -15,7 +15,7 @@ https://courses.nvidia.com/courses/course-v1:DLI+C-FX-01+V3/course/
 - class: Computational Mathematics (Department of Mathematics)
 - Don't use nn.Module
 
-# week11
+# week13
 
 ## Implementation of MLP
 
