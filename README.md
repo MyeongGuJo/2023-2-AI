@@ -22,6 +22,7 @@ https://courses.nvidia.com/courses/course-v1:DLI+C-FX-01+V3/course/
 ## Implementation of MLP
 
 - lecture: Computational Mathematics (Department of Mathematics)
-- MLP class for Binary Classification
-- MultiClassMLP class for Multi Class Classification
+- MLP class for Binary Classification (week13_lab1)
+- MultiClassMLP class for Multi Class Classification (MNIST) (week13_lab2)
+- MultiClassMLP class for Multi Class Classification (CIFAR10) (week13_lab3)
 
